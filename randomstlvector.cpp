@@ -1,6 +1,6 @@
 #include "randomstlvector.h"
 
-using namespace randomization;
+using namespace randomizer;
 
 template <typename T>
 std::vector<T> randomVector(const int& minSize, const int& maxSize)
